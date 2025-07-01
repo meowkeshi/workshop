@@ -1,0 +1,4 @@
+site_name: My 2
+
+theme: 
+  name: materialmkdocs serve
